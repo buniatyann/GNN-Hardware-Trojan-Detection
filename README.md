@@ -43,7 +43,7 @@ The tool processes HDL source files through a 6-stage pipeline — from file ing
 ### Linux / macOS
 
 ```bash
-git clone https://github.com/buniatyann/GNN-Hardware-Trojan-Detection#features
+git clone https://github.com/buniatyann/GNN-Hardware-Trojan-Detection
 cd trojan-detector
 
 # Automated setup (creates venv, installs dependencies, downloads datasets)
